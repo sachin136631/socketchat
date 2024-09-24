@@ -1,2 +1,2 @@
 # socketchat
-chat application using websockets (further description will be provided soon)
+chat application using websocket which features a permanent bidirectional connection between server and client (further details will be provided soon)
